@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "tipo": "pantalon",
+    "nombre": "pantalon termico ",
+    "precio": 8000,
+    "foto": "./media/biker black.jpg"
+}, {
+    "id": 2,
+    "tipo": "casco",
+    "nombre": "casco vertigo orange",
+    "precio": 14000,
+    "foto": "./media/beanie pink.jpg"
+}, {
+    "id": 3,
+    "tipo": "playera",
+    "nombre": "musculosa guerra moto",
+    "precio": 6000,
+    "foto": "./media/reme batik.jpg"
+}, {
+    "id": 4,
+    "tipo": "combo",
+    "nombre": "conjunto lluvia moto",
+    "precio": 13000,
+    "foto": "./media/reme global.jpg"
+}, {
+    "id": 5,
+    "tipo": "campera",
+    "nombre": "campera good pink moto",
+    "precio": 34000,
+    "foto": "./media/reme good times.jpg"
+}, {
+    "id": 6,
+    "tipo": "campera",
+    "nombre": "campera pantalon 1 pieza moto",
+    "precio": 99500,
+    "foto": "./media/reme self love.jpg"
+}, {
+    "id": 7,
+    "tipo": "campera",
+    "nombre": "campera scream grey moto",
+    "precio": 44500,
+    "foto": "./media/buzo scream.jpg"
+}, {
+    "id": 8,
+    "tipo": "Buzo",
+    "nombre": "Buzo Negro impermeable moto",
+    "precio": 18000,
+    "foto": "./media/buzo negro oversized.jpg"
+}, {
+    "id": 9,
+    "tipo": "Buzo",
+    "nombre": "Buzo guerra moto",
+    "precio": 18000,
+    "foto": "./media/buzo batik.jpg"
+}, {
+    "id": 10,
+    "tipo": "Buzo",
+    "nombre": "buzo hoddie black moto",
+    "precio": 18000,
+    "foto": "./media/hoddie heads.jpg"
+}, {
+    "id": 11,
+    "tipo": "Accesorio",
+    "nombre": "Lentes Venatori para casco abierto",
+    "precio": 4400,
+    "foto": "./media/lentes venatori.jpg"
+}, {
+    "id": 12,
+    "tipo": "pantalon",
+    "nombre": "pantalon Shining elastizado ",
+    "precio": 12000,
+    "foto": "./media/short shining.jpg"
+}]

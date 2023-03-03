@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+$negro: black;
+$blanco: white;
+$gris: grey;
+$lila: none ;
+$lavanda: #d7c1d7d5;
+$transparencia: rgba(158, 158, 158, 0.137);
+body {
+  background-image: url(../media/bg.jpg);
+  background-repeat: space repeat center;
+  color: $negro;
+  font-family: "Oswald", sans-serif;
+}
+.botones {
+  font-size: 6px;
+  font-family: oswald, sans-serif;
+  width: 50%;
+  padding: 0px;
+  margin-top: 0px;
+  text-align: start;
+  align-self: flex-start;
+  color: $blanco;
+  background-color: $lila;
+}
+p {
+  margin: 0px;
+  font-size: 20px;
+}
+ol,
+ul {
+  padding-left: 0px;
+}
